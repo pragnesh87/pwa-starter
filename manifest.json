@@ -1,11 +1,12 @@
 {
-  "name": "PWA APP",
+  "name": "PWA Starter APP",
   "short_name": "PWA",
-  "start_url": "/index.php",
+  "start_url": "./index.php",
   "background_color": "#3498DB",
   "description": "Add some description",
   "display": "fullscreen",
   "theme_color": "#3498DB",
+  "orientation": "portrait-primary",
   "icons": [
     {
       "src": "./logo/logo.png",

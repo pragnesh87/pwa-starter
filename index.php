@@ -8,6 +8,7 @@
 	<title>PWA Starter</title>
 
 	<!-- PWA  -->
+	<meta name="apple-mobile-web-app-status-bar" content="#3498DB" />
 	<meta name="theme-color" content="#3498DB" />
 	<link rel="apple-touch-icon" href="./logo/logo.png">
 	<link rel="manifest" href="./manifest.json">
